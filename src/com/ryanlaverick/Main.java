@@ -39,8 +39,6 @@ public class Main {
                     toPrint = "Draw! You have drawn this round of Rock Paper Scissors, you selected " + userChoice + " while the Computer also chose " + rpsGame.getGeneratedResult() + "!";
                     print("You have drawn " + draws + " rounds!");
                     print(" ");
-                    print("Hello!");
-                    print("Goodbye!");
                 }
 
                 else if (gameResult == GameResult.LOSS) {
