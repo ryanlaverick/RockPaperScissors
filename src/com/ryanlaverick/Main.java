@@ -40,6 +40,7 @@ public class Main {
                     print("You have drawn " + draws + " rounds!");
                     print(" ");
                     print("Hello!");
+                    print("Goodbye!");
                 }
 
                 else if (gameResult == GameResult.LOSS) {
